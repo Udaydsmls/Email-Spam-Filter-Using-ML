@@ -4,6 +4,9 @@
 
 Dataset Used: https://www.kaggle.com/datasets/shantanudhakadd/email-spam-detection-dataset-classification
 
+The algorithm used to train the model is Naive-Bayes.
+The spam-filter has achieved accuracy of 97% but in practice the accuracy might be around 80%.
+
 ### How the Mail Box will Look after running the spam filter
 
 ![Screenshot 2024-08-22 192944](https://github.com/user-attachments/assets/ed080b50-a7d0-437c-b6fb-28e3a4d28848)
